@@ -1,7 +1,8 @@
-# I verify that I am the sole author of the programs contained in this archive, except where explicitly stated to the contrary.
-# Hyunkyung Lee, 06 August 2025
-
-# 1. faceforensics_download.py
+'''
+I verify that I am the sole author of the programs contained in this archive, except where explicitly stated to the contrary.
+Hyunkyung Lee, 06 August 2025
+''' 
+1. faceforensics_download.py
 
 2. Signal extraction
 	1) rppg_extraction.py	: Code for extracting rppg signals and FFT features.
