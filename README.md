@@ -1,5 +1,7 @@
 # PPG and Iris Pattern Feature Analysis for Deepfake Video Detection
 
+This project proposes a deepfake detection model utilizing the **FaceForensics++ dataset** to analyze PPG and iris pattern features.
+
 ## 📃 Author's Declaration
 
 ''' I verify that I am the sole author of the programs contained in this archive, except where explicitly stated to the contrary. Hyunkyung Lee, 06 August 2025 '''
